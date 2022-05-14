@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Khula:wght@300&display=swap');
+
+
+*{
+	margin: 5px;
+	padding: 5px;
+}
+.container{
+	width: 1400px;
+	margin: 0 auto;
+}
+
+	.container__header{
+        margin: 0 0 0 136px;
+		size: 14px;
+		height: 100px;
+		
+		display: flex;
+	}
+	.menu__ul{
+		
+		width: 1113px;
+		display: flex;
+		justify-content: flex-start;
+	}
+
+	.menu__item{
+		color: #C3B9B5;
+		font-size: 18px;
+		margin: 0 80px 0 0;
+	}
+	
+
+	
+
+	li{
+		list-style-type: none;
+	}
+	a{
+		text-decoration: none;
+	}
+
+
+     .logotip {
+        margin: -35px 144px 0px 0px;
+    }
+
+    .container__block_1{
+        width: 1440px;
+        height: 601px;
+        background:url(/foto/majid-gheidarlou-LuI6euS7Dno-unsplash\ 1.png) ;
+
+
+    }
+    .nam_doverayt{
+        color: white;
+        margin: 250px 0 105px 300px;
+       font-size: 48px;
+       
+    }
+    
+    .knopca{
+      margin: 0 0 0 512px;
+            background: #fafafa;
+   
+    font-family: 'Futura New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 20px;
+    color: #4C6D77;
+   
+    }
+
+    .nashi__raboti{
+        color: #57463A;
+        font-size: 48px;
+        margin: 93px 0 -61px 139px;
+    }
+
+    .container__block_2{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 144px 0 0 126px;
+    }
+
+
+
+    .knopca__2{
+        margin: 0 0 0 621px;
+        background: #fafafa;
+
+font-family: 'Futura New';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #ffffff;
+background:#A1B29F ;
+    }
+
+    .kakie_texniki{
+        margin: 131px 0 84px 109px;
+        font-size: 48px;
+        color: #57463A;
+    }
+    .kryg{
+        margin: 42px 0 0 0;
+        color: #ffffff;
+        font-size: 24px;
+        padding: 0 0 0 0;
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        background-color:#A1B29F;
+        text-align: center;
+        
+
+    }
+
+    .text__snat{
+        margin: 50px 0 0 22px;
+        font-size: 18px;
+    }
+    .container__block_3{
+        
+        display: flex;
+        justify-content: center;
+        
+    }
+    .container__block_4{
+        width: 1440px;
+        height: 508px;
+        background: url(/foto/mitchell-luo-3Zy6U5swEio-unsplash\ 1.png);
+    }
+    .podari{
+        font-size: 48px;
+        color: #ffffff;
+    }
+    .container__podari{
+margin: 158px 265px 0 350px;
+    }  
+    
+
+    .container__block_5{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 144px 45px 0 126px;
+      
+    }
+
+    .master__klass{
+        font-size: 48px;
+        color: #57463A;
+        margin: 77px 0 -72px 171px;
+    }
+    .syndyk{
+        margin: 66px 0 0 81px;
+    }
+
+    
+    .mebel__7{
+        margin: 0 120px 0 39px;
+    }
+    .container__block_6{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 110px 0 0 0 ;
+        font-size: 18px;
+    }
+    .container__block_7{
+        display: flex;
+        flex-direction: row;
+        flex-wrap:nowrap;
+    }
+
+    .container_rykovodstvo{
+        margin: 0 0 0 281px;
+    }
+    .rykovodstvo{
+        font-size: 48px;
+        color: #57463A;
+    }
+    .knopka__3{
+        margin: 20px 0 0 20px;
+        width: 245px;
+            background: #A1B29F;
+   
+    font-family: 'Futura New';
+    font-style: normal;
+    
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+   
+    }
+
+
+    
+    .container__footer{
+        
+        margin: 200px 0 0 0;
+        
+        font-size: 16px;
+        width: 1440px;
+        height: 380px;
+        display: flex;
+        color: #F6F6F6;
+        background: #715B4B;
+    }
+    
+    
+
+    .ip{
+        margin: 100px 0 0 100px;
+        width: 248px;
+        height: 48px;
+    }
+    .master{
+        margin: 100px 107px 0 0;
+        width:130px;
+        height: 24px;
+    }
+
+    .kontent{
+        margin: 100px 107px 0 0;
+width: 70px;
+height: 24px;
+    }
+    .politika{
+        margin: 100px 107px 0 0;
+ width:230px;
+        height: 24px;
+    }
+
+    .inst{
+        margin: 100px 107px 0 0;
+
+    }
+
